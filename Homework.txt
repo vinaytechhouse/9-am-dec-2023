@@ -1,11 +1,15 @@
 
 What are the components Power BI has?
-Majorly 8 components
+Majorly 8 components.
+
 a) Cloud Desktop b) Cloud Service c) On-Premise desktop d) On-Premise Server e) Report Builder f) Power BI Developer
+
 g) Power BI Embedding h) Gateway
 
+Note: Power BI Desktop components are different
 What is pagination?
-Dividing records into multiple pages and each page is printable
+
+Dividing records into multiple pages and each page is printable. 
 
 What exactly Gateway does?
 Gateway is the intermediatory betwen On-premise sources to cloud.
