@@ -1,0 +1,91 @@
+
+What are the components Power BI has?
+Majorly 8 components
+a) Cloud Desktop b) Cloud Service c) On-Premise desktop d) On-Premise Server e) Report Builder f) Power BI Developer
+g) Power BI Embedding h) Gateway
+
+What is pagination?
+Dividing records into multiple pages and each page is printable
+
+What exactly Gateway does?
+Gateway is the intermediatory betwen On-premise sources to cloud.
+
+Power BI Desktop components?
+a) Power Query b) Power Pivot c)Power View d) Power Map
+
+
+Accounts:
+Account is authorization between user and service / server. Very popular with Web and Cloud services.
+Clouds:
+	a) Data Storage: Google Drive, OneDrive etc.
+			Google Drive [till 15 GB free, Rs. 131+ for 100 GB, 2 TB for 650+ taxes /month]
+
+	b) Cloud Data Streaming: Primevideo.com, Netflix etc.
+
+			TV account, Mobile, Single user, Multiple user
+
+	b) Data Storage and Processing: Azure, Amazon, Workday, Salesforce etc.
+
+		Power BI Cloud Service Accounts:
+
+		a) Single user and Less Storage  account:
+
+				1. Pro: Pro features+ 10 GB Storage+ 1 User : $15/month
+				2. PPU: Premium per user: Premium features+ 10 GB Storage+ 1 User : $30/month
+
+		b) Multi User and More Capacity Account
+				
+			1. Premium Capacity
+				P1: Premium 1: TBs, Multiple users, 25 GB RAM, 8 Vcores  : $7500/month
+				P2: Premium 2: TBs, Multiple users, 50 GB RAM, 16 Vcores  : $15000/month
+				P3: Premium 3:TBs, Multiple users, 100 GB RAM, 32 Vcores  : 
+
+
+			2. Power BI EMbedding
+
+				Power BI + Azure combo
+
+			3. Fabric Account
+
+				Power BI + ADF + Synapse+ Data Activator etc.
+
+=============================================================================
+How to create an account?
+	With a valid domain email address we can create
+	Ex: @ibm.com, @tcs.com, @vinaytechhouse.com etc.
+	Note: Gmail, Yahoo etc. not supported.
+
+Click on the below link, fill the form, so that your email address will be the sign in for Power BI and your specified password
+is the password for the account.
+
+We have an email account:	vinaytech_2011@vinaytechhouse.com
+
+=============================================================================
+Power BI Account Details:
+====================
+Account 1:
+
+user name: vinaytech_2011@vinaytechhouse.com
+password: vinaytech@2023
+
+===================================
+Workspace: Working area [It supports PBIX, RDL, and XLSX files]
+Appspace: Sharing area [Customers se this to browse reports and share annotations, Team members to colloborate work]
+==================================
+
+******************************************************************************************************
+Practice: You have to do the below at the cloud service in the browser:
+******************************************************************************************************
+a) Open Browser (Google chrome or Internet Explorer)
+b) Type cloud service URL:  app.power bi.com, connect with the above credentials
+c) Create workspace [left hand side navigation, click create workspace]
+d) Upload the below items
+		Non paginated report: Power BI Desktop Report: PBIX File
+
+******************************************************************************************************
+Practice: Download and install Power BI App in Mobile / Tab
+******************************************************************************************************
+1) Open your mobile / tab, go to play store / any store, search Power BI app, Install It.
+2) Open Power BI App, Choose Power BI Service and Enter the below credentials:
+user name: vinaytech_2011@vinaytechhouse.com
+password: vinaytech@2023
